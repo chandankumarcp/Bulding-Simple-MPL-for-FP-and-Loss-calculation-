@@ -18,7 +18,7 @@ This project builds a simple MLP that supports:
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure is
 
 ```
 Bulding-Simple-MPL-for-FP-and-Loss-calculation-/
